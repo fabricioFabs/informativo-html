@@ -1,0 +1,32 @@
+*{
+    margin:5px;
+    background-color:black;
+}
+
+.titulo{
+    color:red;
+    font-weight: 18px;
+}
+
+img{
+    width: 400px;
+}
+
+.texto-introdutorio{
+    margin-left:450px;
+    margin-top:-210px;
+    color:white;
+}
+
+.border{
+    margin-top:200px;
+    color:white;
+}
+
+.texto2{
+    color:white;
+}
+
+.texto3{
+    color:white;
+}
